@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_181" class="java.beans.XMLDecoder">
+	<object class="com.mes.server.service.po.bfc.BFCClientConfig">
+
+		<void property="description">
+			<string>发现新的客户端版本！</string>
+		</void>
+		<void property="url">
+			<string>/my_app/app_update/iplant.apk</string>
+		</void>
+		<void property="versionID">
+			<string>1.1.5</string>
+		</void>
+		<void property="isUpdate">
+			<boolean>true</boolean>
+		</void>
+	</object>
+</java>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_181" class="java.beans.XMLDecoder">
+	<object class="java.util.ArrayList">
+		<void method="add">
+			<object class="com.mes.exc.server.service.po.exc.EXCOptionItem"
+				id="EXCOptionItem0">
+				<void class="com.mes.exc.server.service.po.exc.EXCOptionItem"
+					method="getField">
+					<string>ID</string>
+					<void method="set">
+						<object idref="EXCOptionItem0" />
+						<int>1</int>
+					</void>
+				</void>
+				<void class="com.mes.exc.server.service.po.exc.EXCOptionItem"
+					method="getField">
+					<string>Name</string>
+					<void method="set">
+						<object idref="EXCOptionItem0" />
+						<string>A</string>
+					</void>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="com.mes.exc.server.service.po.exc.EXCOptionItem"
+				id="EXCOptionItem1">
+				<void class="com.mes.exc.server.service.po.exc.EXCOptionItem"
+					method="getField">
+					<string>ID</string>
+					<void method="set">
+						<object idref="EXCOptionItem1" />
+						<int>2</int>
+					</void>
+				</void>
+				<void class="com.mes.exc.server.service.po.exc.EXCOptionItem"
+					method="getField">
+					<string>Name</string>
+					<void method="set">
+						<object idref="EXCOptionItem1" />
+						<string>B</string>
+					</void>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="com.mes.exc.server.service.po.exc.EXCOptionItem"
+				id="EXCOptionItem2">
+				<void class="com.mes.exc.server.service.po.exc.EXCOptionItem"
+					method="getField">
+					<string>ID</string>
+					<void method="set">
+						<object idref="EXCOptionItem2" />
+						<int>3</int>
+					</void>
+				</void>
+				<void class="com.mes.exc.server.service.po.exc.EXCOptionItem"
+					method="getField">
+					<string>Name</string>
+					<void method="set">
+						<object idref="EXCOptionItem2" />
+						<string>C</string>
+					</void>
+				</void>
+			</object>
+		</void>
+		<void method="add">
+			<object class="com.mes.exc.server.service.po.exc.EXCOptionItem"
+				id="EXCOptionItem3">
+				<void class="com.mes.exc.server.service.po.exc.EXCOptionItem"
+					method="getField">
+					<string>ID</string>
+					<void method="set">
+						<object idref="EXCOptionItem3" />
+						<int>4</int>
+					</void>
+				</void>
+				<void class="com.mes.exc.server.service.po.exc.EXCOptionItem"
+					method="getField">
+					<string>Name</string>
+					<void method="set">
+						<object idref="EXCOptionItem3" />
+						<string>D</string>
+					</void>
+				</void>
+			</object>
+		</void>
+	</object>
+</java>
